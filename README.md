@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/RitikPuranik/LeetCode/tree/master/0542-01-matrix) |
 | [0994-rotting-oranges](https://github.com/RitikPuranik/LeetCode/tree/master/0994-rotting-oranges) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/RitikPuranik/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3875-construct-uniform-parity-array-i](https://github.com/RitikPuranik/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -36,4 +37,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/RitikPuranik/LeetCode/tree/master/0130-surrounded-regions) |
+## Math
+|  |
+| ------- |
+| [3875-construct-uniform-parity-array-i](https://github.com/RitikPuranik/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 <!---LeetCode Topics End-->
