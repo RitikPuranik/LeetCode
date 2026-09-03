@@ -22,13 +22,13 @@ class Solution {
         return count;
     }
     private void dfs(int[][] grid, int m, int n, int i, int j){
+        if(i < 0 || i >= m || j < 0 || j >= n || grid[i][j] == 0) return ;
         grid[i][j] = 0;
 
-        for(int[] direction : directions) {
-            int x = i + direction[0];
-            int y = j + direction[1];
+        dfs(grid, m, n, i + 1, j);
+        dfs(grid, m, n, i - 1, j);
+        dfs(grid, m, n, i, j + 1);
+        dfs(grid, m, n, i, j - 1);
 
-            if(x >= 0 && x < m && y >= 0 && y < n && grid[x][y] == 1) dfs(grid, m, n, x, y);
-        }
     }
 }
