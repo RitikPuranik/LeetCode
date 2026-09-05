@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/RitikPuranik/LeetCode/tree/master/0130-surrounded-regions) |
+| [0207-course-schedule](https://github.com/RitikPuranik/LeetCode/tree/master/0207-course-schedule) |
 | [0542-01-matrix](https://github.com/RitikPuranik/LeetCode/tree/master/0542-01-matrix) |
 | [0994-rotting-oranges](https://github.com/RitikPuranik/LeetCode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/RitikPuranik/LeetCode/tree/master/1020-number-of-enclaves) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/RitikPuranik/LeetCode/tree/master/0130-surrounded-regions) |
+| [0207-course-schedule](https://github.com/RitikPuranik/LeetCode/tree/master/0207-course-schedule) |
 | [1020-number-of-enclaves](https://github.com/RitikPuranik/LeetCode/tree/master/1020-number-of-enclaves) |
 ## Union-Find
 |  |
@@ -55,4 +57,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3903-smallest-stable-index-i](https://github.com/RitikPuranik/LeetCode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/RitikPuranik/LeetCode/tree/master/3904-smallest-stable-index-ii) |
+## Graph Theory
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/RitikPuranik/LeetCode/tree/master/0207-course-schedule) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/RitikPuranik/LeetCode/tree/master/0207-course-schedule) |
+## Directed Acyclic Graph
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/RitikPuranik/LeetCode/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
