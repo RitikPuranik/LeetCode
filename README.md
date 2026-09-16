@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/RitikPuranik/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/RitikPuranik/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0542-01-matrix](https://github.com/RitikPuranik/LeetCode/tree/master/0542-01-matrix) |
+| [0802-find-eventual-safe-states](https://github.com/RitikPuranik/LeetCode/tree/master/0802-find-eventual-safe-states) |
 | [0994-rotting-oranges](https://github.com/RitikPuranik/LeetCode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/RitikPuranik/LeetCode/tree/master/1020-number-of-enclaves) |
 ## Matrix
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/RitikPuranik/LeetCode/tree/master/0130-surrounded-regions) |
 | [0207-course-schedule](https://github.com/RitikPuranik/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/RitikPuranik/LeetCode/tree/master/0210-course-schedule-ii) |
+| [0802-find-eventual-safe-states](https://github.com/RitikPuranik/LeetCode/tree/master/0802-find-eventual-safe-states) |
 | [1020-number-of-enclaves](https://github.com/RitikPuranik/LeetCode/tree/master/1020-number-of-enclaves) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/RitikPuranik/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Union-Find
@@ -67,11 +69,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/RitikPuranik/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/RitikPuranik/LeetCode/tree/master/0210-course-schedule-ii) |
+| [0802-find-eventual-safe-states](https://github.com/RitikPuranik/LeetCode/tree/master/0802-find-eventual-safe-states) |
 ## Topological Sort
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/RitikPuranik/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/RitikPuranik/LeetCode/tree/master/0210-course-schedule-ii) |
+| [0802-find-eventual-safe-states](https://github.com/RitikPuranik/LeetCode/tree/master/0802-find-eventual-safe-states) |
 ## Directed Acyclic Graph
 |  |
 | ------- |
@@ -92,4 +96,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/RitikPuranik/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
+## Kosaraju's Algorithm
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/RitikPuranik/LeetCode/tree/master/0802-find-eventual-safe-states) |
+## Tarjan's SCC Algorithm
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/RitikPuranik/LeetCode/tree/master/0802-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
