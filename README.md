@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/RitikPuranik/LeetCode/tree/master/0542-01-matrix) |
 | [0994-rotting-oranges](https://github.com/RitikPuranik/LeetCode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/RitikPuranik/LeetCode/tree/master/1020-number-of-enclaves) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/RitikPuranik/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3483-unique-3-digit-even-numbers](https://github.com/RitikPuranik/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/RitikPuranik/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/RitikPuranik/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/RitikPuranik/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3483-unique-3-digit-even-numbers](https://github.com/RitikPuranik/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/RitikPuranik/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Breadth-First Search
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/RitikPuranik/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/RitikPuranik/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 ## Simulation
 |  |
