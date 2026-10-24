@@ -1,23 +1,24 @@
 class Solution {
     public int countDaysTogether(String arriveAlice, String leaveAlice, String arriveBob, String leaveBob) {
-        int[] month = {0, 31, 59, 90, 120, 151, 181, 212, 243, 273, 304, 334};
+        int aA = day2date(arriveAlice);
+        int lA = day2date(leaveAlice);
+        int aB = day2date(arriveBob);
+        int lB = day2date(leaveBob);
+
+        int startoverlap = Math.max(aA, aB);
+        int endoverlap = Math.min(lB, lA);
+
+        return Math.max(0 ,endoverlap - startoverlap + 1);
+    }
+    int day2date(String s){
+        int[] months = {31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31};
         int ans = 0;
 
-        String[] a = arriveAlice.split("-");
-        String[] b = leaveAlice.split("-");
-        String[] c = arriveBob.split("-");
-        String[] d = leaveBob.split("-");
+        int m = Integer.parseInt(s.substring(0, 2));
+        int d = Integer.parseInt(s.substring(3, 5));
 
-        int alice_came = Integer.parseInt(a[1]) + month[Integer.parseInt(a[0]) - 1];
-        int alice_gone = Integer.parseInt(b[1]) + month[Integer.parseInt(b[0]) - 1];
-        int bob_came = Integer.parseInt(c[1]) + month[Integer.parseInt(c[0]) - 1];
-        int bob_gone = Integer.parseInt(d[1]) + month[Integer.parseInt(d[0]) - 1];
+        for(int i = 0; i < m - 1; i++) ans += months[i];
 
-        int x = Math.max(alice_came, bob_came);
-        int y = Math.min(alice_gone, bob_gone);
-
-        if(x <= y) ans += y - x + 1;
-
-        return ans;
+        return ans + d;
     }
 }
