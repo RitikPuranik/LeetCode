@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/RitikPuranik/LeetCode/tree/master/0542-01-matrix) |
 | [0994-rotting-oranges](https://github.com/RitikPuranik/LeetCode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/RitikPuranik/LeetCode/tree/master/1020-number-of-enclaves) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/RitikPuranik/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/RitikPuranik/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/RitikPuranik/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/RitikPuranik/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -191,4 +192,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/RitikPuranik/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
+## Two Pointers
+|  |
+| ------- |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/RitikPuranik/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
+## Binary Search
+|  |
+| ------- |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/RitikPuranik/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
+## Sorting
+|  |
+| ------- |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/RitikPuranik/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 <!---LeetCode Topics End-->
